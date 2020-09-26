@@ -17,6 +17,7 @@ namespace FractionCalc {
             Multiply,
             Divide,
         }
+        //dummyBrunch
 
 
         public Form1() {
